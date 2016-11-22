@@ -49,7 +49,7 @@ div {
   clear: right;
   padding: 2px;
   margin: 0 0 2px 2px;
-  border: 1px solid black;
+  border-left, border-bottom: 1px solid black;
 }
 
 #chicken {
