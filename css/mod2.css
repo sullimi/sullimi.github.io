@@ -7,6 +7,7 @@
   width: 33%;
   float: left;
   border: 1px solid black;
+  margin: 5px;
   }
 }
 
@@ -14,6 +15,7 @@
   .col-md-6, .col-md-12 {
     float: left;
     border: 1px solid black;
+    margin: 5px;
 }
   .col-md-6 {width: 50%;}
   .col-md-12 {width: 100%;}
@@ -24,7 +26,12 @@
     width: 100%;
     float: left;
     border: 1px solid black;
+    margin: 5px;
   }
+}
+
+body {
+  font-family: Arial, Verdana, Sans;
 }
 
 #chicken {
