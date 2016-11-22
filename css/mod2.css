@@ -26,3 +26,15 @@
     border: 1px solid black;
   }
 }
+
+#chicken {
+  background-color: yellow;
+}
+
+#beef {
+  background-color: red;
+}
+
+#sushi {
+  background-color: orange;
+}
