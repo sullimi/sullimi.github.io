@@ -16,8 +16,6 @@
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-6, .col-md-12 {
     float: left;
-    border: 1px solid black;
-    margin: 5px;
 }
   .col-md-6 {width: 50%;}
   .col-md-12 {width: 100%;}
@@ -33,7 +31,7 @@
 }
 
 body {
-  font-family: Arial, Verdana, Sans;
+  font-family: Arial, Verdana, san-serif;
 }
 
 h1 {
@@ -43,21 +41,26 @@ h1 {
 }
 
 div {
-  relative;
+  
 }
 
 .menuTitle {
-  position: 
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 
 #chicken {
+  position: relative;
   background-color: yellow;
 }
 
 #beef {
+  position: relative;
   background-color: red;
 }
 
 #sushi {
+  position: relative;
   background-color: orange;
 }
