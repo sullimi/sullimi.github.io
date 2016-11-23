@@ -52,16 +52,13 @@ div {
 }
 
 #chicken {
-  position: relative;
   background-color: yellow;
 }
 
 #beef {
-  position: relative;
   background-color: red;
 }
 
 #sushi {
-  position: relative;
   background-color: orange;
 }
