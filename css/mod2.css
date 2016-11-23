@@ -23,6 +23,7 @@ div {
 p {
   padding: 10px;
   margin: 0;
+  text-align: justify;
 }
 
 .menuTitle {
@@ -30,7 +31,7 @@ p {
   float: right;
   clear: left;
   border: 1px solid black;
-  text-align: justify;
+  text-align: center;
   width: 30%;
   margin-left: 70%;
 }
