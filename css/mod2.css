@@ -47,7 +47,9 @@ div {
 .menuTitle {
   position: absolute;
   top: 0;
-  right: -10px;
+  right: 0px;
+  padding: 2px;
+  min-width: 60px;
 }
 
 #chicken {
