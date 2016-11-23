@@ -47,6 +47,9 @@ div {
   position: absolute;
   top: 0;
   right: 0;
+  height: 18px;
+  width: 60px;
+  clear: left;
 }
 
 #chicken {
