@@ -19,6 +19,7 @@ h1 {
 
 .container {
   background-color: gray;
+  margin: 2px;
 }
 
 p {
