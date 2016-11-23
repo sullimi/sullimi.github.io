@@ -12,11 +12,17 @@ body {
 h1 {
   font-family: georgian, "times roman", serif;
   font-weight: bold;
+  color: blue;
+  text-align: center;
 }
 
 div {
-  padding: 10px;
   background-color: gray;
+}
+
+p {
+  padding: 10px;
+  margin: 0;
 }
 
 .menuTitle {
@@ -25,6 +31,20 @@ div {
   clear: left;
   border: 1px solid black;
   text-align: justify;
+  width: 30%;
+  margin-left: 70%;
+}
+
+#chicken {
+  background-color: yellow;
+}
+
+#beef {
+  background-color: red;
+}
+
+#sushi {
+  background-color: green;
 }
 
 /* Desktop view */
