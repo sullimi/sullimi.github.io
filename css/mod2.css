@@ -8,6 +8,8 @@ body {
   font-family: arial, helvetica, sans-serif;
   font-size: 120%;
   box-sizing: border-box;
+  width: 90%;
+  margin: auto;
 }
 
 h1 {
