@@ -42,3 +42,21 @@ div {
   padding: 10px;
   text-align: justify;
 }
+
+.menuTitle {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+#chicken {
+  background-color: yellow;
+}
+
+#beef {
+  background-color: red;
+}
+
+#sushi {
+  background-color: green;
+}
