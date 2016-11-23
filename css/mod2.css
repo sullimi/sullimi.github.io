@@ -37,7 +37,7 @@ h1 {
   margin-bottom: 10px;
 }
 
-div.desc {
+div {
   position: relative;
   padding: 10px;
   text-align: justify;
@@ -47,7 +47,7 @@ div.desc {
 .menuTitle {
   position: absolute;
   top: 0;
-  right: 0;
+  right: -10px;
 }
 
 #chicken {
