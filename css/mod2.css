@@ -14,6 +14,19 @@ h1 {
   font-weight: bold;
 }
 
+div {
+  padding: 10px;
+  background-color: gray;
+}
+
+.menuTitle {
+  padding: 0;
+  float: right;
+  clear: left;
+  border: 1px solid black;
+  text-align: justify;
+}
+
 /* Desktop view */
 
 @media (min-width: 992px) {
