@@ -41,6 +41,7 @@ div {
   position: relative;
   padding: 10px;
   text-align: justify;
+  background-color: rgba(168, 168, 168, 0.73);
 }
 
 .menuTitle {
@@ -49,7 +50,6 @@ div {
   right: 0;
   height: 18px;
   width: 60px;
-  clear: left;
 }
 
 #chicken {
